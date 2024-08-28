@@ -6,9 +6,14 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/styles.css">
     <title>Tareas</title>
 </head>
 <body>
-    <h2>Tareas</h2>
+    <div>
+        <h1>Tareas</h1>
+        <hr>
+
+    </div>
 </body>
 </html>
