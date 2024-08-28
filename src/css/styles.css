@@ -19,3 +19,13 @@ button{
     text-align: center;
     font-size: 16px;
 }
+
+p{
+    font-size: 40px;
+}
+
+.custom-select{
+    width: 300px;
+    font-size: 20px;
+    padding: 20px;
+}
